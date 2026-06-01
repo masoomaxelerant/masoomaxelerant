@@ -81,6 +81,17 @@ A few of the live client projects I currently contribute to at Axelerant:
 
 ---
 
+### 🏆 GitHub achievements
+
+<p>
+  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="60" alt="Pull Shark" title="Pull Shark" />
+  <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="60" alt="Pair Extraordinaire" title="Pair Extraordinaire" />
+</p>
+
+<sub>Pull Shark • Pair Extraordinaire — earned through merged PRs and co-authored commits along the way.</sub>
+
+---
+
 ### 🤝 Let's connect
 
 - 🐘 Drupal.org — [drupal.org/u/masoom2206](https://www.drupal.org/u/masoom2206)
