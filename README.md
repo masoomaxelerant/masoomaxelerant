@@ -52,7 +52,24 @@ I'm a backend-first developer who's just as comfortable wiring up a custom modul
 ### 💼 Tech I reach for most
 
 <p>
-  <img src="https://skillicons.dev/icons?i=drupal,php,mysql,js,jquery,react,html,css,sass,nodejs,docker,git,github,linux,bash,apache,nginx,vscode" />
+  <a href="https://www.drupal.org/" title="Drupal"><img src="https://skillicons.dev/icons?i=drupal" alt="Drupal" /></a>
+  <a href="https://www.php.net/" title="PHP"><img src="https://skillicons.dev/icons?i=php" alt="PHP" /></a>
+  <a href="https://www.mysql.com/" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
+  <a href="https://jquery.com/" title="jQuery"><img src="https://skillicons.dev/icons?i=jquery" alt="jQuery" /></a>
+  <a href="https://react.dev/" title="React"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" /></a>
+  <a href="https://sass-lang.com/" title="Sass"><img src="https://skillicons.dev/icons?i=sass" alt="Sass" /></a>
+  <a href="https://nodejs.org/" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
+  <a href="https://www.docker.com/" title="Docker"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
+  <a href="https://git-scm.com/" title="Git"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
+  <a href="https://github.com/" title="GitHub"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+  <a href="https://www.linux.org/" title="Linux"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a>
+  <a href="https://www.gnu.org/software/bash/" title="Bash"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" /></a>
+  <a href="https://httpd.apache.org/" title="Apache HTTP Server"><img src="https://skillicons.dev/icons?i=apache" alt="Apache" /></a>
+  <a href="https://nginx.org/" title="NGINX"><img src="https://skillicons.dev/icons?i=nginx" alt="NGINX" /></a>
+  <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /></a>
 </p>
 
 ---
