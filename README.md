@@ -29,6 +29,9 @@
   <a href="https://www.linkedin.com/in/masoom2206/">
     <img src="https://img.shields.io/badge/LinkedIn-masoom2206-0A66C2?style=for-the-badge&labelColor=1e2327&logo=linkedin" alt="LinkedIn" />
   </a>
+  <a href="https://github.com/masoomaxelerant" title="GitHub profile">
+    <img src="https://komarev.com/ghpvc/?username=masoomaxelerant&label=Profile%20views&color=0678BE&style=for-the-badge" alt="Profile views" />
+  </a>
 </p>
 
 ---
